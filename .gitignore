@@ -1,0 +1,9 @@
+/.ipynb_checkpoints
+**/__pycache__
+/.vscode
+/results
+nohup.out
+args.pkl
+/nb_testing
+/exp_running
+_*
