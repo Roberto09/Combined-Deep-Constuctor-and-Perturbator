@@ -1,6 +1,6 @@
 # Combining Constructive and Perturbative Deep Learning Algorithms for the Capacitated Vehicle Routing Problem
 
-This is the official implementation code for the paper "Combining Constructive and Perturbative Deep Learning Algorithms for the Capacitated Vehicle Routing Problem". Here you will find a way to test the models from the paper since we include their weights here. Additionally, you will be able to train your own models and test them.
+This is the official implementation code for the paper ["Combining Constructive and Perturbative Deep Learning Algorithms for the Capacitated Vehicle Routing Problem"](https://arxiv.org/abs/2211.13922). Here you will find a way to test the models from the paper since we include their weights here. Additionally, you will be able to train your own models and test them.
 
 ## Before testing or training the CDCP
 * We used conda to manage the environment used to train and test the CDCP. We include a "./env.yml" file with the packages of this environment. You can follow this [guide](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) to install the environment. To run any of the code in this repo, we strongly recommend installing and activating this environment.
